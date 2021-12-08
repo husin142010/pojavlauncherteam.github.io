@@ -1,4 +1,4 @@
-# Offline mode is going places
+
 
 Even though offline mode hasn't yet been taken down by Mojang, it's still technically piracy when you're using it, as you're getting the game for free (unless you bought it). Since GitHub and Mojang are owned by the same company, it's time we announce that we're putting our foot down.
 
